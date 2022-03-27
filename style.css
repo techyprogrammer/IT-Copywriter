@@ -700,7 +700,7 @@ q {font-style: italic; transform: translate(-50%, -50%); transition-duration: 1s
 
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px or max-width: 700px) {
   
 
 
@@ -828,7 +828,7 @@ q {font-style: italic; transform: translate(-50%, -50%); transition-duration: 1s
 
   header .hero-container .right {
     position: absolute;
-    margin-left: 40px;
+    margin-left: 0px;
     margin-bottom: 40px;
     right: -253px;
     

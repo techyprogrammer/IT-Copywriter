@@ -314,9 +314,9 @@ header .hero-container .left h2:nth-of-type(2) {
 }
 
 .hero-container .right img {
-  object-fit:scale-down;
-  width:500px;
-  height:500px;
+  object-fit: scale-down;
+  width:250px;
+  height:250px;
   
 }
 

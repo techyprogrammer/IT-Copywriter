@@ -314,7 +314,7 @@ header .hero-container .left h2:nth-of-type(2) {
 }
 
 .hero-container .right img {
-  height: 80vh;/*before 580px*/
+  height: 100vh;/*before 580px*/
   margin-right: 20px;
 }
 

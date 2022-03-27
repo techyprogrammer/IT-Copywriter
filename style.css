@@ -317,8 +317,8 @@ header .hero-container .left h2:nth-of-type(2) {
   
   max-width: 50%;
   height: auto;
-  
-  margin-left: 200px;
+  padding-bottom: 20px;
+  margin-left: 250px;
   
 }
 
@@ -719,7 +719,7 @@ q {font-style: italic; transform: translate(-50%, -50%); transition-duration: 1s
 
   .txt-type{
     margin-top: 20px;
-    margin-right:50px;
+    padding-right:50px;
   }
 
   
